@@ -2,7 +2,7 @@
 
 # School
 * 순천향대학교 정보통신공학과 (2017~2020 중퇴)
-* 중앙대학교 소프트웨어학부 (2021~ 재학)
+* 중앙대학교 소프트웨어학부 (2022~ 재학)
 
 # Stack
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
