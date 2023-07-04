@@ -11,8 +11,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigerfrom2)](https://solved.ac/tigerfrom2)
 <!--
-2020
-
+* ewf
 **ChoBeomHee/ChoBeomHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
