@@ -12,7 +12,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigerfrom2)](https://solved.ac/tigerfrom2)
 
 * 중앙대학교 인공지능 암호 연구실 학부연구생 (2023-06-25~2023-08-25)
-* 제 4회 적십자 대학생 나눔봉사 해커톤 최우수상
+* 제 4회 적십자 대학생 나눔봉사 해커톤 최우수상(2023-08-25)
 
 <!--
 
